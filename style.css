@@ -25,7 +25,7 @@ h3{margin:6px 0 6px;font-size:18px}
 .badge img{height:62px;width:auto}
 .pills{list-style:none;padding:0;margin:20px 0 0;display:flex;flex-wrap:wrap;gap:8px}
 .pills li{background:#fff;border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:14px;color:var(--muted)}
-.hero-art{max-width:300px;margin:0 auto;width:100%}
+.hero-art{max-width:240px;margin:0 auto;width:100%}
 .sec{padding:52px 0}.sec.alt{background:var(--bg2)}
 .grid{display:grid;gap:16px;grid-template-columns:1fr}
 @media (min-width:640px){.grid{grid-template-columns:1fr 1fr}}
@@ -39,6 +39,7 @@ h3{margin:6px 0 6px;font-size:18px}
 .steps p{margin:4px 0 0;color:var(--muted)}
 .ills{display:grid;gap:18px;grid-template-columns:1fr}
 @media (min-width:700px){.ills{grid-template-columns:1fr 1fr 1fr}}
+.ills svg{max-width:220px;margin:0 auto}
 .ills figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:18px}
 .ills figcaption{margin-top:10px;font-weight:650}.ills figcaption span{display:block;font-weight:400;color:var(--muted);font-size:14px}
 .fine{font-size:14px;color:var(--muted);margin-top:16px}
