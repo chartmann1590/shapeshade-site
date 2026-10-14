@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Privacy Policy
+    url: https://chartmann1590.github.io/shapeshade-site/privacy/
+    about: How Shape & Shade handles your camera, photos and data.
+  - name: Delete your data
+    url: https://chartmann1590.github.io/shapeshade-site/delete/
+    about: How to delete saved scans from your phone.
